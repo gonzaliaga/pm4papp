@@ -9,6 +9,7 @@ import Banner5 from '../../assets/imagenes/banners/banner5.jpg';
 import '../home/home.css';
 
 const Home = () => {
+  //comentario para probar git
   return (
     <Container>
       <section>
