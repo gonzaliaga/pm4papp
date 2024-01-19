@@ -1,0 +1,24 @@
+
+footer{
+    background-color: #c54120;
+  }
+  
+  
+  span{
+    text-align: left;
+    text-decoration: overline;
+  }
+  
+  .footer{
+    display: flex;
+    
+    color: white;
+    align-items: center;
+    justify-content: center;
+  
+  }
+  
+  .logo_footer{
+    filter: saturate(1%) ;
+    width: 80px;
+  }
